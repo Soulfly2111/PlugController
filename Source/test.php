@@ -2,7 +2,7 @@
 <?php
 /**
  * Ein einfaches Beispiel, wie man die SQLite3-Klasse erweitert, die Parameter
- * des Konstruktors (__construct) verändert und mit Hilfe der open-Methode dann
+ * des Konstruktors (__construct) veraendert und mit Hilfe der open-Methode dann
  * die Datenbank initialisiert.
  */
 class MyDB extends SQLite3
