@@ -12,7 +12,7 @@ $db = new MyDB();
 
 
 // ./send 11111 1 1 -->> schaltet die erste Dose an
-// ./send 11111 1 0 -->> schaltet die erste Dose aus.
+// ./send 11111 1 0 -->> schaltet die erste Dose aus.444
 
 $id = $_POST["id"];
 
